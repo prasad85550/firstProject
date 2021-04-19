@@ -2,6 +2,7 @@ welcome to telusko kitchen
 1.kheer
 2.pasta
 3.chicken fry
-
+4.beans
+5.pizza
 
 thankyou
